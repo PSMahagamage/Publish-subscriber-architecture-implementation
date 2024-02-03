@@ -1,8 +1,8 @@
-//////////////////////////////////////////////////////////////
-Software Architecture
-//////////////////////////////////////////////////////////////
-Execution Instruction are as Follows;
-01.
+# Software Architecture
+
+## Execution Instructions
+
+### Task 01
 Compile and run task 01:
 
 Server => javac ServerApp.java
@@ -11,7 +11,7 @@ Server => javac ServerApp.java
 Client => javac ClientApp.java
           java ClientApp <IP Address> <SERVER PORT>
 
-02.
+### Task 02
 Compile and run task 02:
 
 Server => javac Server.java
@@ -20,7 +20,7 @@ Server => javac Server.java
 Client => javac Client.java
           java Client <IP Address> <SERVER PORT> <PUBLISHER/SUBSCRIBER>
 
-03.
+### Task 03
 Compile and run task 03:
 
 Server => javac ServerFiltered.java
